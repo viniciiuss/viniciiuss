@@ -8,7 +8,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><h1></h1>
 <div>
- <p><a href='https://instagram.com' type='_blank'> Instagram </a></p>
+ <p><a href='https://instagram.com' target='_blank'> Instagram </a></p>
 
 
 
