@@ -1,5 +1,5 @@
-## Olá! Meu nome é Vinícius Santos
- <div>
+<h1>Olá! Meu nome é Vinícius Santos</h1>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciiuss&show_icons=false&theme=red&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
